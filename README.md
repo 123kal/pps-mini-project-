@@ -24,14 +24,13 @@ This is a simple Invoice Generating System written in C
 ## Contributors
 
 - [Rishikesh Bharadwaj](https://github.com/rishikesh-b)
-
+- [Vedant Rai](https://github.com/Vedant-rai)
+- [Anshuman Sharma](https://github.com/Anshuman2719/billing-system)
 
 ## Note
 - Try Running The Code On `Vs Code Editor`
-- You Can Also Run The Code On `Xcode`
 - If you encounter any error while running the code just Copy the Code and 
   run on online compiler [Here](https://www.onlinegdb.com/online_c_compiler).
   
 
-- If you are using `Mac OS` use `system("clear")` instead of  `system("cls")` to Clear Previous Output.
-- 
+- If you are using `MacOS` use `system("clear")` instead of  `system("cls")` to Clear Previous Output.
